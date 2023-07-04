@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("---------------Cars-------------")
+	fmt.Println("----------------Cars-------------")
 	sizeBMW := []float64{432.4, 186.4, 130.4}
 	sizeMers := []float64{460.6, 198.4, 196.9}
 	sizeDodge := []float64{475.5 / auto.D, 174 / auto.D, 134.6 / auto.D}
