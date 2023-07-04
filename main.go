@@ -20,12 +20,6 @@ func main() {
 		printCharacteristics(val)
 	}
 
-	name := "Игорь"
-	println(name[2:3])
-	println(name[2])
-	println(name[4:6])
-	println(name[3:3])
-
 }
 
 func printCharacteristics(car auto.Auto) {
